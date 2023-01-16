@@ -10,5 +10,5 @@
     <color name="darkmode_background">#1a1a1a</color>
     <color name="darkmode_button">#373334</color>
     <color name="lightmode_background">#FFFFFF</color>
-    <color name="lightmode_button">#373334</color>
+    <color name="lightmode_button">#bcc2c0</color>
 </resources>

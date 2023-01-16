@@ -77,7 +77,7 @@ class Settings : AppCompatActivity() {
     fun getColours(mode : String) : Array<*>
     {
         var background = R.color.darkmode_background
-        var buttons = R.color.lightmode_button
+        var buttons = R.color.darkmode_button
         var text = R.color.white
         var button_background = R.drawable.scrollitem_background
 
